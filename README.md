@@ -5,7 +5,7 @@
 ## 不定期更新中————
 
 ### 前端
-—— 持续更新中
+—— 关于基础原理，性能优化，面试等
  - [Angular系列,Web应用,随笔系列](https://github.com/xufei/blog)
  - [北冥有鱼的笔记](https://github.com/godkun/blog)
  - [IOS 翻译、开发心得或学习笔记](https://github.com/nixzhu/dev-blog)
