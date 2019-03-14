@@ -1,6 +1,6 @@
 # 收集整理关于IT性质的博客
 
-主要收集个人博客和github issues性质的，欢迎提 issues
+主要收集个人博客和github issues性质的，欢迎提 issues，issues中open的为新增的，每周结束时，会进行整理归类，进行close。
 
 ## 不定期更新中————
 
