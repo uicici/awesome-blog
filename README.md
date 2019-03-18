@@ -14,6 +14,11 @@
  - [网易高级前端工程师面试](https://github.com/yygmind/blog)
  - [前端精读周刊](https://github.com/dt-fe/weekly)
  - [异步、小程序、es6](https://github.com/sisterAn/blog)
+ - [阿里旅行·去啊前端作者拔赤博客](http://jayli.github.io/)
+ - [一起学 Node.js](https://github.com/nswbmw/N-blog)
+ - [各种几十分钟入门的文档](https://github.com/qinjx/30min_guides)
+ - [flutter 开发者帮助](https://github.com/alibaba/flutter-go) flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档
+ - [工作日每天一道前端大厂面试题](https://github.com/Advanced-Frontend/Daily-Interview-Question)
  
  
 ### 后端
@@ -24,6 +29,7 @@
  - [redis相关内容博客](http://note.huangz.me/)
  - [Go入门指南](https://github.com/Unknwon/the-way-to-go_ZH_CN)
  - [深度学习500问](https://github.com/scutan90/DeepLearning-500-questions)
+ - [Linux TC Qos 智能流控,openwrt](http://forgotfun.org/)
  
  ### 其他
  —— 持续更新中
@@ -32,3 +38,5 @@
  - [GitHub 入门级的开源项目](https://github.com/521xueweihan/HelloGitHub)
  - [IntelliJ IDEA 简体中文专题教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
  - [中国科学技术大学计算机学院课程资源](https://github.com/mbinary/USTC-CS-Courses-Resource)
+ - [程序员技能图谱](https://github.com/TeamStuQ/skill-map)
+ - [GitHub 上有趣、入门级的开源项目](https://github.com/521xueweihan/HelloGitHub)
