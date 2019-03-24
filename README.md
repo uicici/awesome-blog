@@ -19,6 +19,13 @@
  - [各种几十分钟入门的文档](https://github.com/qinjx/30min_guides)
  - [flutter 开发者帮助](https://github.com/alibaba/flutter-go) flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档
  - [工作日每天一道前端大厂面试题](https://github.com/Advanced-Frontend/Daily-Interview-Question)
+ - [umi 作者云谦 blog ](https://github.com/sorrycc/blog/issues)
+ - [Jerry Qu 专注 WEB 端开发](https://imququ.com/)
+ - [无名无利，专心练剑](https://www.huangmiantong.cn/) 关于前端架构，版本工具，源码剖析，h5c3等的日常总结
+ - [星光社 - 戴铭的博客](http://www.starming.com/) Ios学习笔记
+ - [vue逐行级别的源码分析](https://github.com/HcySunYang/vue-design)
+ - [iOS 开发流程笔记](https://github.com/leecade/ios-dev-flow)
+ 
  
  
 ### 后端
@@ -30,6 +37,11 @@
  - [Go入门指南](https://github.com/Unknwon/the-way-to-go_ZH_CN)
  - [深度学习500问](https://github.com/scutan90/DeepLearning-500-questions)
  - [Linux TC Qos 智能流控,openwrt](http://forgotfun.org/)
+ - [小马哥的技术博客](https://mercyblitz.github.io/) 这里将深入探讨相关技术，包括行业动态，架构设计，设计模式，框架使用，源码分析等。 :)
+ - [互联网 Java 工程师进阶知识完全扫盲](https://github.com/doocs/advanced-java) 本系列知识出自中华石杉，内容涵盖高并发、分布式、高可用、微服务等领域知识。
+ - [设计数据密集型应用](https://vonng.gitbooks.io/ddia-cn/content/) 不懂数据库的全栈工程师不是好架构师
+ - [一个灵魂码手的沉思录](http://www.soulcoder.tech/)
+ 
  
  ### 其他
  —— 持续更新中
@@ -40,3 +52,6 @@
  - [中国科学技术大学计算机学院课程资源](https://github.com/mbinary/USTC-CS-Courses-Resource)
  - [程序员技能图谱](https://github.com/TeamStuQ/skill-map)
  - [GitHub 上有趣、入门级的开源项目](https://github.com/521xueweihan/HelloGitHub)
+ - [Linux中国翻译项目](https://linux.cn/)
+ - [开源指导](https://opensource.guide/zh-cn/)
+ - [可能是让你受益匪浅的英语进阶指南](https://github.com/byoungd/English-level-up-tips-for-Chinese)
